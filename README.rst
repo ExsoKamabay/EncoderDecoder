@@ -14,7 +14,7 @@ encode your data decode, KAMABAY ``encode decode based`` on ``dictionary``  you 
         # windows
         pip install kamabayEncoder
         # Linux & Termux
-        pip install kamabayEncoder
+        pip3 install kamabayEncoder
         
         """
         Note!! if you download using pip if you have trouble importing, download it directly in the git repository
